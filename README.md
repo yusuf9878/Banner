@@ -1,2 +1,0 @@
-# Banner
-Custom name
